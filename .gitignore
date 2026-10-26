@@ -1,0 +1,32 @@
+# 由 gitbot 自动生成（可自由修改）
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.so
+
+# 通用
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.swp
+*~
+.env
+.env.*
+!.env.example
+*.bak
+*.orig
+.idea/
+.vscode/
+*.code-workspace
